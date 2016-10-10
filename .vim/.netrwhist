@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/masakazu/git/quantums2/app/views/top'
+let g:netrw_dirhist_2='/Users/masakazu/git/quantums2/app/assets/stylesheets'
+let g:netrw_dirhist_3='/Users/masakazu/git'
+let g:netrw_dirhist_4='/private/etc'
+let g:netrw_dirhist_5='/Users/masakazu'
+let g:netrw_dirhist_6='/Users'
+let g:netrw_dirhist_7='/Users/masakazu/Dropbox/rails_app/whh_rails/.git'
+let g:netrw_dirhist_8='/Users/masakazu/.vim'
